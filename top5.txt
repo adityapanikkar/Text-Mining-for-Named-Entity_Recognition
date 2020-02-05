@@ -1,0 +1,1 @@
+('ING', 72)('Microsoft', 71)('British Gas', 58)('Ofgas', 55)('Chrysler', 44)
